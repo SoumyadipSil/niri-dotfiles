@@ -1,0 +1,16 @@
+[shell]
+polkit_agent = true
+
+[bar]
+position = "top"
+bar_type = "simple"
+background_opacity = 0.93
+content_padding = 5
+frame_radius = 12
+frame_thickness = 8
+margin_horizontal = 4
+margin_vertical = 4
+widget_spacing = 10
+show_capsule = true
+show_outline = false
+display_mode = "always_visible"

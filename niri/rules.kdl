@@ -1,6 +1,9 @@
     window-rule {
-        geometry-corner-radius 20 // Set every window radius to 20
+        geometry-corner-radius 01 // Set every window radius to 20
         clip-to-geometry true
+        opacity 0.80
+        shadow { off; }
+        draw-border-with-background false
     }
 
     window-rule {
